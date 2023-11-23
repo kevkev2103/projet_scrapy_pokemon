@@ -13,7 +13,9 @@ class PokemonspiderSpider(scrapy.Spider):
         for pokemon in pokemons:
             relative_url = pokemon.css('a').attrib['href'] # je récupère le lien pour aller sur la fiche du pokemon
             yield response.follow(relative_url,callback=self.parse_pokemon) # je clique sur le lien pour aller sur la fiche puis je fais appel a la méthode parse pokemon pour me retourner les élements définis dans cette même méthode
-           
+        next_page= response.css('.page-numbers a.next::attr(href)').get() 
+        if next_page:
+            yield response.follow(next_page,callback=self.parse)
     
     def parse_pokemon(self,pokemon):
         
