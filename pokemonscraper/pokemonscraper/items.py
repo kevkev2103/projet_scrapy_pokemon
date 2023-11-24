@@ -15,3 +15,6 @@ class PokemonItem(scrapy.Item):
     url=scrapy.Field()
     name=scrapy.Field()
     price=scrapy.Field()
+    stock=scrapy.Field()
+    categories= scrapy.Field()
+    tags=scrapy.Field()
