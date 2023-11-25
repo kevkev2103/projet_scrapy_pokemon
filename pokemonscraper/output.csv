@@ -1,17 +1,17 @@
-categories,name,price,stock,url
-"Butterfly,Pokemon",Butterfree,162.00,242 in stock,https://scrapeme.live/shop/Butterfree/
-"Pokemon,Tiny Bird",Pidgey,159.00,175 in stock,https://scrapeme.live/shop/Pidgey/
-"Pokemon,Worm",Caterpie,73.00,40 in stock,https://scrapeme.live/shop/Caterpie/
-"Cocoon,Pokemon",Kakuna,148.00,260 in stock,https://scrapeme.live/shop/Kakuna/
-"Cocoon,Pokemon",Metapod,148.00,285 in stock,https://scrapeme.live/shop/Metapod/
-"Poison Bee,Pokemon",Beedrill,168.00,125 in stock,https://scrapeme.live/shop/Beedrill/
-"Pokemon,Shellfish",Blastoise,76.00,88 in stock,https://scrapeme.live/shop/Blastoise/
-"Hairy Bug,Pokemon",Weedle,25.00,65 in stock,https://scrapeme.live/shop/Weedle/
-"Pokemon,Turtle",Wartortle,123.00,24 in stock,https://scrapeme.live/shop/Wartortle/
-"Pokemon,Tiny Turtle",Squirtle,130.00,178 in stock,https://scrapeme.live/shop/Squirtle/
-"Flame,Pokemon",Charizard,156.00,31 in stock,https://scrapeme.live/shop/Charizard/
-"Flame,Pokemon",Charmeleon,165.00,284 in stock,https://scrapeme.live/shop/Charmeleon/
-"Pokemon,Seed",Venusaur,105.00,30 in stock,https://scrapeme.live/shop/Venusaur/
-"Lizard,Pokemon",Charmander,48.00,206 in stock,https://scrapeme.live/shop/Charmander/
-"Pokemon,Seed",Ivysaur,87.00,142 in stock,https://scrapeme.live/shop/Ivysaur/
-"Pokemon,Seed",Bulbasaur,63.00,45 in stock,https://scrapeme.live/shop/Bulbasaur/
+SKU,categories,name,price,stock,tags,url
+5212,"Pokemon,Shellfish",Blastoise,76.00,88 in stock,"blastoise,Shellfish,Torrent",https://scrapeme.live/shop/Blastoise/
+1049,"Cocoon,Pokemon",Kakuna,148.00,260 in stock,"Cocoon,kakuna,Shed Skin",https://scrapeme.live/shop/Kakuna/
+9507,"Butterfly,Pokemon",Butterfree,162.00,242 in stock,"Butterfly,butterfree,Compound Eyes",https://scrapeme.live/shop/Butterfree/
+7492,"Pokemon,Worm",Caterpie,73.00,40 in stock,"caterpie,Shield Dust,Worm",https://scrapeme.live/shop/Caterpie/
+2072,"Cocoon,Pokemon",Metapod,148.00,285 in stock,"Cocoon,metapod,Shed Skin",https://scrapeme.live/shop/Metapod/
+9452,"Pokemon,Tiny Bird",Pidgey,159.00,175 in stock,"Keen Eye,pidgey,Tiny Bird",https://scrapeme.live/shop/Pidgey/
+7525,"Hairy Bug,Pokemon",Weedle,25.00,65 in stock,"Hairy Bug,Shield Dust,weedle",https://scrapeme.live/shop/Weedle/
+6542,"Poison Bee,Pokemon",Beedrill,168.00,125 in stock,"beedrill,Poison Bee,Swarm",https://scrapeme.live/shop/Beedrill/
+9659,"Pokemon,Turtle",Wartortle,123.00,24 in stock,"Torrent,Turtle,wartortle",https://scrapeme.live/shop/Wartortle/
+6094,"Pokemon,Tiny Turtle",Squirtle,130.00,178 in stock,"squirtle,Tiny Turtle,Torrent",https://scrapeme.live/shop/Squirtle/
+8840,"Flame,Pokemon",Charizard,156.00,31 in stock,"Blaze,Charizard,Flame",https://scrapeme.live/shop/Charizard/
+6565,"Flame,Pokemon",Charmeleon,165.00,284 in stock,"Blaze,charmeleon,Flame",https://scrapeme.live/shop/Charmeleon/
+9086,"Lizard,Pokemon",Charmander,48.00,206 in stock,"Blaze,charmander,Lizard",https://scrapeme.live/shop/Charmander/
+7036,"Pokemon,Seed",Venusaur,105.00,30 in stock,"Overgrow,Seed,venusaur",https://scrapeme.live/shop/Venusaur/
+7227,"Pokemon,Seed",Ivysaur,87.00,142 in stock,"ivysaur,Overgrow,Seed",https://scrapeme.live/shop/Ivysaur/
+4391,"Pokemon,Seed",Bulbasaur,63.00,45 in stock,"bulbasaur,Overgrow,Seed",https://scrapeme.live/shop/Bulbasaur/

@@ -18,3 +18,4 @@ class PokemonItem(scrapy.Item):
     stock=scrapy.Field()
     categories= scrapy.Field()
     tags=scrapy.Field()
+    SKU=scrapy.Field()

@@ -30,4 +30,5 @@ class PokemonspiderSpider(scrapy.Spider):
         pokemon_item['stock']=pokemon.css('p.stock::text').get()
         pokemon_item['tags']=pokemon.css('span.tagged_as a::text').getall()
         pokemon_item['categories']=pokemon.css('span.posted_in a::text').getall()
+        pokemon_item['SKU']=pokemon.css('span.sku::text').get()
         yield pokemon_item
